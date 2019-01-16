@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>RANDOM PAGE</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+
+<h1>CLASS DICKWAD</h1>
+<p>Part 1: Hi, my name is Andy. I am a dick. <i class="fa fa-cloud"></i></p>
+<p> Part 2: I came here because I think I will become the best programmer.</p>
+<h2>Part 3: HTML, CSS, JavaScript </h2>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<h3>Part 4: Resources</h3>
+<li><a href="http://www.youtube.com" target="_blank">YouTube RULZ</a></li>
+<li><a href="http://www.google.com" target="_blank">So doz Google</a></li>
+
+</body>
+</html>
